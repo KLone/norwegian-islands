@@ -1,0 +1,122 @@
+[
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 1,
+    "q_en": "What do you think?",
+    "q_no": "Hva synes du?",
+    "a_en": "I think it's exciting.",
+    "a_no": "Jeg synes det er spennende."
+  },
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 2,
+    "q_en": "What are you doing today?",
+    "q_no": "Hva gjør du i dag?",
+    "a_en": "Today I want to try something new!",
+    "a_no": "I dag vil jeg prøve noe nytt!"
+  },
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 3,
+    "q_en": "What did you eat for lunch?",
+    "q_no": "Hva spiste du til lunsj?",
+    "a_en": "For lunch I ate beans with eggs and vegetables.",
+    "a_no": "Til lunsj spiste jeg bønner med egg og grønnsaker."
+  },
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 4,
+    "q_en": "Did you see that?",
+    "q_no": "Så du det?",
+    "a_en": "Yes, it was weird.",
+    "a_no": "Ja, det var rart."
+  },
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 5,
+    "q_en": "Are you tired?",
+    "q_no": "Er du trøtt?",
+    "a_en": "Yeah, I'm a little tired.",
+    "a_no": "Ja, jeg er litt trøtt."
+  },
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 6,
+    "q_en": "What did I say?",
+    "q_no": "Hva sa jeg?",
+    "a_en": "You said that…",
+    "a_no": "Du sa at…"
+  },
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 7,
+    "q_en": "How would you say: I'm irritated.",
+    "q_no": "",
+    "a_en": "I'm irritated.",
+    "a_no": "Jeg føler meg irritert."
+  },
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 8,
+    "q_en": "How do you check on someone?",
+    "q_no": "Går det bra med deg?",
+    "a_en": "Are you ok?",
+    "a_no": "Går det bra med deg?"
+  },
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 9,
+    "q_en": "How do you ask for help with something?",
+    "q_no": "Kunne du hjelpe meg med noe?",
+    "a_en": "Could you help me with something?",
+    "a_no": "Kunne du hjelpe meg med noe?"
+  },
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 10,
+    "q_en": "How would you say: I already ate breakfast.",
+    "q_no": "",
+    "a_en": "I already ate breakfast.",
+    "a_no": "Jeg spiste frokost allerede."
+  },
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 11,
+    "q_en": "How was it?",
+    "q_no": "Hvordan var det?",
+    "a_en": "I really liked it.",
+    "a_no": "Jeg likte det kjempegodt."
+  },
+  {
+    "island_num": 1,
+    "island_slug": "daily-exchanges",
+    "card_type": "core",
+    "card_num": 12,
+    "q_en": "Did you like it?",
+    "q_no": "Likte du det?",
+    "a_en": "I didn't like it. Not really.",
+    "a_no": "Jeg likte det ikke. Ikke egentlig."
+  }
+]
