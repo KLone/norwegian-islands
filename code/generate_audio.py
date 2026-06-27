@@ -16,7 +16,7 @@ Cards without a Norwegian question (q_no == "") skip the NO question segment.
 Intermediate per-segment files are written to audio/segments/ and reused.
 Final files are assembled with ffmpeg.
 
-Norwegian voice: nb-NO-Neural2-F (Norwegian Bokmål neural)
+Norwegian voice: nb-NO-Wavenet-E (Norwegian Bokmål female)
 English voice: en-US-Neural2-C
 
 Resumable: skips final files that already exist.
@@ -44,7 +44,7 @@ TMP_DIR          = "audio/segments"
 BATCH_SIZE       = 20
 TTS_URL          = "https://texttospeech.googleapis.com/v1/text:synthesize"
 
-NO_VOICE         = "nb-NO-Neural2-F"
+NO_VOICE         = "nb-NO-Wavenet-E"
 NO_LANG          = "nb-NO"
 EN_VOICE         = "en-US-Neural2-C"
 EN_LANG          = "en-US"
