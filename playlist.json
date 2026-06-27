@@ -1,0 +1,620 @@
+[
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 1",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-1",
+    "segments": [
+      {
+        "text": "What do you think?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-1-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "Hva synes du?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-1-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "I think it's exciting.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-1-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Jeg synes det er spennende.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-1-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 1",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-1",
+    "segments": [
+      {
+        "text": "Hva synes du?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-1-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Jeg synes det er spennende.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-1-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 2",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-2",
+    "segments": [
+      {
+        "text": "What are you doing today?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-2-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "Hva gjør du i dag?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-2-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Today I want to try something new!",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-2-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "I dag vil jeg prøve noe nytt!",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-2-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 2",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-2",
+    "segments": [
+      {
+        "text": "Hva gjør du i dag?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-2-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "I dag vil jeg prøve noe nytt!",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-2-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 3",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-3",
+    "segments": [
+      {
+        "text": "What did you eat for lunch?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-3-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "Hva spiste du til lunsj?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-3-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "For lunch I ate beans with eggs and vegetables.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-3-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Til lunsj spiste jeg bønner med egg og grønnsaker.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-3-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 3",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-3",
+    "segments": [
+      {
+        "text": "Hva spiste du til lunsj?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-3-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Til lunsj spiste jeg bønner med egg og grønnsaker.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-3-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 4",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-4",
+    "segments": [
+      {
+        "text": "Did you see that?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-4-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "Så du det?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-4-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Yes, it was weird.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-4-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Ja, det var rart.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-4-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 4",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-4",
+    "segments": [
+      {
+        "text": "Så du det?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-4-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Ja, det var rart.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-4-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 5",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-5",
+    "segments": [
+      {
+        "text": "Are you tired?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-5-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "Er du trøtt?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-5-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Yeah, I'm a little tired.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-5-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Ja, jeg er litt trøtt.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-5-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 5",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-5",
+    "segments": [
+      {
+        "text": "Er du trøtt?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-5-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Ja, jeg er litt trøtt.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-5-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 6",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-6",
+    "segments": [
+      {
+        "text": "What did I say?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-6-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "Hva sa jeg?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-6-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "You said that…",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-6-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Du sa at…",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-6-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 6",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-6",
+    "segments": [
+      {
+        "text": "Hva sa jeg?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-6-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Du sa at…",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-6-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 7",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-7",
+    "segments": [
+      {
+        "text": "How would you say: I'm irritated.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-7-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "I'm irritated.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-7-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Jeg føler meg irritert.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-7-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 7",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-7",
+    "segments": [
+      {
+        "text": "Jeg føler meg irritert.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-7-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 8",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-8",
+    "segments": [
+      {
+        "text": "How do you check on someone?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-8-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "Går det bra med deg?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-8-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Are you ok?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-8-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Går det bra med deg?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-8-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 8",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-8",
+    "segments": [
+      {
+        "text": "Går det bra med deg?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-8-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Går det bra med deg?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-8-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 9",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-9",
+    "segments": [
+      {
+        "text": "How do you ask for help with something?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-9-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "Kunne du hjelpe meg med noe?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-9-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Could you help me with something?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-9-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Kunne du hjelpe meg med noe?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-9-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 9",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-9",
+    "segments": [
+      {
+        "text": "Kunne du hjelpe meg med noe?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-9-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Kunne du hjelpe meg med noe?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-9-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 10",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-10",
+    "segments": [
+      {
+        "text": "How would you say: I already ate breakfast.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-10-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "I already ate breakfast.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-10-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Jeg spiste frokost allerede.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-10-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 10",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-10",
+    "segments": [
+      {
+        "text": "Jeg spiste frokost allerede.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-10-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 11",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-11",
+    "segments": [
+      {
+        "text": "How was it?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-11-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "Hvordan var det?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-11-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "I really liked it.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-11-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Jeg likte det kjempegodt.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-11-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 11",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-11",
+    "segments": [
+      {
+        "text": "Hvordan var det?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-11-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Jeg likte det kjempegodt.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-11-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 12",
+    "mode": "recall",
+    "stem": "island-01-daily-exchanges-core-12",
+    "segments": [
+      {
+        "text": "Did you like it?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-12-q-en.mp3",
+        "lang": "en",
+        "role": "question"
+      },
+      {
+        "text": "Likte du det?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-12-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "I didn't like it.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-12-a-en-s01.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Jeg likte det ikke.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-12-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      },
+      {
+        "text": "Not really.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-12-a-en-s02.mp3",
+        "lang": "en",
+        "role": "answer"
+      },
+      {
+        "text": "Ikke egentlig.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-12-a-no-s02.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  },
+  {
+    "island": "Daily Exchanges",
+    "card": "Core 12",
+    "mode": "shadow",
+    "stem": "island-01-daily-exchanges-core-12",
+    "segments": [
+      {
+        "text": "Likte du det?",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-12-q-no.mp3",
+        "lang": "no",
+        "role": "question"
+      },
+      {
+        "text": "Jeg likte det ikke.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-12-a-no-s01.mp3",
+        "lang": "no",
+        "role": "answer"
+      },
+      {
+        "text": "Ikke egentlig.",
+        "audio": "code/audio/segments/island-01-daily-exchanges-core-12-a-no-s02.mp3",
+        "lang": "no",
+        "role": "answer"
+      }
+    ]
+  }
+]
