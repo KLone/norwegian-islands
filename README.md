@@ -2,7 +2,7 @@
 
 A PWA for drilling and shadowing Norwegian language islands — sentence sets sourced from Kirk's daughter, organized by topic.
 
-**Player URL:** *(set this after pushing to GitHub Pages)*
+**Player URL:** https://klone.github.io/norwegian-islands/player.html
 
 ---
 
@@ -110,6 +110,6 @@ player/
 
 ## Audio voice
 
-- Norwegian: `nb-NO-Neural2-F` (Google Cloud TTS)
+- Norwegian: `nb-NO-Wavenet-E` (Google Cloud TTS)
 - English: `en-US-Neural2-C`
 - API key stored in Apple Keychain as `google_tts_api_key`
